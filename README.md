@@ -11,10 +11,13 @@
 
 - First download the Camper_Scraper.exe file
 - Then prepare your data folder by creating a main folder with sub-folders labled "Alt1","Alt2","Alt3","Alt4"
+
 ![Folders.jpg](https://www.dropbox.com/s/uwqqa9787fo1x0f/Folders.jpg?dl=0&raw=1)
 - Then go to the top bar and copy the address of the folder hwere you wish to save the images by clisking the bar and copying the information
+
 ![Address Bar.jpg](https://www.dropbox.com/s/g7m6f9gd9ot701f/Address%20Bar.jpg?dl=0&raw=1)
 - Now click to open the app, and you will get a prompt telling you to paste the information. Paste the information from the previous step into the text bar
+
 ![DirectoryPrompt.jpg](https://www.dropbox.com/s/a3xtsyv9fe1c0ef/DirectoryPrompt.jpg?dl=0&raw=1)
 - You are now ready to collect picture!
 - Note: I do reccoment the Chrome Web Browser for this application
