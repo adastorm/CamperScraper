@@ -31,10 +31,10 @@
 | Hotkey | Action |
 | ------ | ------ |
 | "Ctrl+alt+j" | Save image one two main folder |
-| "Ctrl+alt+j" | Save image two to Alt1 |
-| "Ctrl+alt+j" | Save image three to Alt2 |
-| "Ctrl+alt+j" | Save image four to Alt3 |
-| "Ctrl+alt+j" | Save image five to Alt4 |
+| "Ctrl+alt+k" | Save image two to Alt1 |
+| "Ctrl+alt+l" | Save image three to Alt2 |
+| "Ctrl+alt+;" | Save image four to Alt3 |
+| "Ctrl+alt+'" | Save image five to Alt4 |
 
 - If it was a success, you will hear a high pitch beep, if not you will hear a low pitch.
 
